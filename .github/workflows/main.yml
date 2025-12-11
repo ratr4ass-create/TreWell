@@ -2,7 +2,7 @@ name: Deploy TreWell
 
 on:
   push:
-    branches: [ "Version 2" ]
+    branches: [ "main" ]
 
 jobs:
   build:
